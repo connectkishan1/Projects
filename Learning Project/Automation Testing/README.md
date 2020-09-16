@@ -69,9 +69,8 @@ Similarly, operations can be performed on each of the elements mentioned earlier
 
 There are eight attributes that can be used to locate elements on a web page, they are ID, Name, Class Name, Tag Name, Link Text, Partial Link Text, CSS, and XPath.
 
-## Download & Install Pycharm [Click Here]("https://www.guru99.com/how-to-install-python.html")
-## Download & Install selenium at Pycharm or python IDE path
-
-img src<("https://224926-685269-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2017/04/python-selenium-4.png"/>
-
-## Download Chrome driver & store it somewhere [Click Here]("https://chromedriver.chromium.org/downloads")
+**Download & Install Pycharm** 
+[Click Here]("https://www.guru99.com/how-to-install-python.html")
+**Download & Install selenium at Pycharm or python IDE path**
+<img src="https://224926-685269-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2017/04/python-selenium-4.png"/>
+**Download Chrome driver & store it somewhere [Click Here]("https://chromedriver.chromium.org/downloads")**
