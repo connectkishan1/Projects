@@ -1,7 +1,5 @@
-# Project- House Prices: Advanced Regression Techniques
-###  [Predicting Housing Prices](https://github.com/connectkishan1/Projects/blob/master/House%20Prices%20Advanced%20Regression%20Techniques/House_Prices_Advanced_Regression_Techniques.ipynb)
-[Github](https://github.com/connectkishan1/Projects/blob/master/House%20Prices%20Advanced%20Regression%20Techniques/House_Prices_Advanced_Regression_Techniques.ipynb)
-
+# Project- House Prices Prediction: Advanced Regression Techniques
+##### [Kaggle](https://www.kaggle.com/connectkishan1/house-prices-prediction)
 * Project for the course Machine Learning
 * Participation of the kaggle competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/)
 * We were graded on leaderboard scores and I scored 11th of the class with position 526th of the leaderboard
