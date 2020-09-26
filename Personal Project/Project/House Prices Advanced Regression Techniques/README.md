@@ -4,12 +4,12 @@
 
 * Project for the course Machine Learning
 * Participation of the kaggle competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/)
-* We were graded on leaderboard scores and I scored 12th of the class with position 542th of the leaderboard
+* We were graded on leaderboard scores and I scored 11th of the class with position 526th of the leaderboard
 * I used a weighted average of XGBoost, Lasso, ElasticNet, and Gradient Boosting Regressor
 * The focus of this project was mostly on feature engineering
 
 
-<img src="https://github.com/connectkishan1/Projects/blob/master/House%20Prices%20Advanced%20Regression%20Techniques/kaggle.JPG" width="70%"/>
+<img src="https://github.com/connectkishan1/Projects/blob/master/Personal%20Project/Docs/pic/kaggle.JPG" width="70%"/>
 
 ---
 ### Dataset Overview
