@@ -21,9 +21,9 @@ This portfolio consists of several projects illustrating the work I have done in
 ###  [Titanic: Machine Learning from Disaster](https://github.com/connectkishan1/Titanic_Dataset_Prediction)
 <!--[Github](https://github.com/connectkishan1/Titanic_Dataset_Prediction) | [nbviewer]()-->
 
-* Project for the course Machine Learning
+* Project for the kaggle competitions
 * Participation of the kaggle competition [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/)
-* We were graded on leaderboard scores and I scored 1st of the class with position 1266th of the leaderboard
+* We were graded on leaderboard scores and I scored 7th of the class with position 1266th of the leaderboard
 * I used a weighted average of Logistic regression, Random forest & SVM.
 * The focus of this project was mostly on feature engineering
 
@@ -34,7 +34,7 @@ This portfolio consists of several projects illustrating the work I have done in
 <a name="House"/></a>
 ###  [House Price Prediction: Advanced Regression Technique](https://github.com/connectkishan1/Projects/tree/master/Personal%20Project/Project/House%20Prices%20Advanced%20Regression%20Techniques)
 [Kaggle](https://www.kaggle.com/connectkishan1/house-prices-prediction)
-* Project for the Machine Learning
+* Project for the kaggle competitions
 * Participation of the kaggle competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/)
 * We were graded on leaderboard scores and I scored 11th of the class with position 526th of the leaderboard
 * I used a weighted average of XGBoost, Lasso, ElasticNet, and Gradient Boosting Regressor
@@ -49,16 +49,17 @@ This portfolio consists of several projects illustrating the work I have done in
 
 * Project for the course Deep Learning
 * I used CNN
+* using flow from directory
 * The focus of this project was mostly on Layers.
 
 ---
 <a name="American"/></a>
 ###  [American Sign Language-Recognition](https://github.com/connectkishan1/Projects/tree/master/Personal%20Project/Project/American%20Sign%20Language%20Hand%20Gesture%20Recognition)
 
-* Project for the Deep Learning
+* Project for the image Classification
 * I used CNN
 * using flow from directory
-* The focus of this project was mostly on Layers.
+* The focus of this project was mostly on .
 
 ---
 
@@ -67,6 +68,7 @@ This portfolio consists of several projects illustrating the work I have done in
 
 * Project for the course Deep Learning
 * I used CNN
+* Data Scource:  Keras.Datasets
 * The focus of this project was mostly on Layers.
 
 ---
@@ -85,6 +87,6 @@ This portfolio consists of several projects illustrating the work I have done in
 
 * Project for the course Machine Learning
 * My First Classification Project
-* I used a weighted average of Logistic regression, Random forest & SVM.
+* I used Logistic regression, Random forest & SVM.
 
 ---
